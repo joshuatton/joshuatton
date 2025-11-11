@@ -1,7 +1,7 @@
 # Hi 👋 I'm Joshua Ton
 
 ## 💫 About Me:
-🏫 Third-year student at the University of Washington looking to pursue a B.S. in Informatics. <br>🎓 Earned an associate's degree at Bellevue College while graduating high school in the running start program.<br>❤️‍🔥 Passionate about exploring how to build innovative and scalable applications that put community first.<br>🐶 Currently building DawgDig, an RSO and event discovery website for UW students
+🏫 Third-year student at the University of Washington looking to pursue a B.S. in Informatics. <br>🎓 Earned an associate's degree at Bellevue College while graduating high school in the running start program.<br>❤️‍🔥 Passionate about exploring how to build innovative and scalable applications that put community first.<br>🐶 Currently building DawgDig, an RSO and event discovery website for UW students.
 
 
 ## 🌐 Socials:
